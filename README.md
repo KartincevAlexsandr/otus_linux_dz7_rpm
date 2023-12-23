@@ -1,0 +1,1 @@
+# otus_linux_dz7_rpm
